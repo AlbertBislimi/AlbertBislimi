@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlbertBislimi
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning React, Typescript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I work with React, Vue, Typescript, Craft CMS
 - 📫 How to reach me https://www.linkedin.com/in/albert-bislimi/ or www.albertbislimi.com
 
 <!---
